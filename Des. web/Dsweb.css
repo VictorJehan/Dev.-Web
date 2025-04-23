@@ -1,4 +1,31 @@
+* {
+  color: moccasin;
+}
+
 body {
-    background-image: linear-gradient(to right, #9e7efe, #07838c);
-    font-size: larger;
+  background-image: linear-gradient(to right, #9e7efe, #07838c);
+  font-size: larger;
+}
+
+h1 {
+  background-color: rgb(64, 14, 202);
+}
+
+h2:hover {
+  color: #be780f;
+}
+
+p:hover {
+  color: #000000;
+}
+
+.pg {
+  background-color: #a49fe9f6;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+a:hover {
+  color: #181515;
 }
